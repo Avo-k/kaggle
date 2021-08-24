@@ -1,3 +1,4 @@
 # Rank on public leaderboards
 
-- house prices: #105
+(24/08/2021)
+- house prices: #108 / 20000
